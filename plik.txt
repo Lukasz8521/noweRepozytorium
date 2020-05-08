@@ -1,1 +1,3 @@
-inna zmiana tego pliku nadpisze poprzedni
+ala ma kota
+
+wprowadzenie nowej funkcjonalnosci
