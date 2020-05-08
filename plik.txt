@@ -1,1 +1,1 @@
-Zmiana w pliku
+inna zmiana tego pliku nadpisze poprzedni
